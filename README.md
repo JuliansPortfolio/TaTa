@@ -22,8 +22,6 @@ The dataset consist of 44,999 rows with 8 columns. These columns description are
 
 ### Data Visualization
 Due to the fact that we really don't have much analysis to make, we proceeded to visualisation. The first visualization was on the revenue genearted in the year 2011 across various months, second part was on the revenue and quantity that belong to top 10 countries, third part was top 10 revenue contributed by customers and lastly, were top demand by countries. The visualizations are below for grasp and better understanding
-![Tata viz 1](https://github.com/JuliansPortfolio/Tata-Virtual-Internship-with-Forage/assets/118804668/ccc3f396-25cc-4d52-adfd-08cff04f4419)
-
 
 
 
