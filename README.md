@@ -3,8 +3,8 @@
 
 ## Objective
 An Online retail store wants to review their data and get insights that would be valuable to the CEO and CMO of the company. In achieving this they had to construct tactical questions that will give them the expected results.
-### Project Tasks
 
+### Project Tasks
 1. The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year.
 2. The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to have the United Kingdom in this visual.
 3. The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products.
@@ -22,6 +22,7 @@ The dataset consist of 44,999 rows with 8 columns. These columns description are
 
 ### Data Visualization
 Due to the fact that we really don't have much analysis to make, we proceeded to visualisation. The first visualization was on the revenue genearted in the year 2011 across various months, second part was on the revenue and quantity that belong to top 10 countries, third part was top 10 revenue contributed by customers and lastly, were top demand by countries. The visualizations are below for grasp and better understanding
+![Tata viz 1](https://github.com/JuliansPortfolio/Tata-Virtual-Internship-with-Forage/assets/118804668/ccc3f396-25cc-4d52-adfd-08cff04f4419)
 
 
 
