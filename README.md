@@ -1,4 +1,3 @@
-
 # Tata-Virtual-Internship-with-Forage
 ## Empowering Business with Effective Insights
 
@@ -25,16 +24,15 @@ The dataset consist of 44,999 rows with 8 columns. These columns description are
 Due to the fact that we really don't have much analysis to make, we proceeded to visualisation. The first visualization was on the revenue genearted in the year 2011 across various months, second part was on the revenue and quantity that belong to top 10 countries, third part was top 10 revenue contributed by customers and lastly, were top demand by countries. The visualizations are below for grasp and better understanding:
 
 1. 1st Visual
-![Tata viz 1](https://github.com/JuliansPortfolio/Tata-Virtual-Internship-with-Forage/assets/118804668/46985b4e-08bf-4c4b-85fd-37053c835913)
+
 
 2. 2nd Visual
-![Tata viz 2](https://github.com/JuliansPortfolio/Tata-Virtual-Internship-with-Forage/assets/118804668/963c3f7a-f472-489a-b40a-8c37f162b42f)
+
 
 3. 3rd Visual
-![Tata viz 3](https://github.com/JuliansPortfolio/Tata-Virtual-Internship-with-Forage/assets/118804668/40fca811-ca7e-47ff-9b9e-a49b4d744a68)
+
 
 4. 4th Visual
-![Tata viz 4](https://github.com/JuliansPortfolio/Tata-Virtual-Internship-with-Forage/assets/118804668/59ac4315-42f0-4784-9bf0-d392ae805a29)
 
 ### Findings/Insights
     The month that yielded the highest revenue was October, 2011 with the figure $216,000. While the least revenue was generated on December, 2011at $46,000. 
