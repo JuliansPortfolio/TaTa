@@ -1,3 +1,4 @@
+
 # Tata-Virtual-Internship-with-Forage
 ## Empowering Business with Effective Insights
 
@@ -21,7 +22,33 @@ Online Retail: The data used for this analysis was gotten from forage platform.
 The dataset consist of 44,999 rows with 8 columns. These columns description are as follows: Invoice No, Stock Code, Description, Quantity, InvoiceDate, Unit price, CustomerID and Country. In order to get valuable insights, we generated another column with title Revenue; makinmg it total of 9 columns.
 
 ### Data Visualization
-Due to the fact that we really don't have much analysis to make, we proceeded to visualisation. The first visualization was on the revenue genearted in the year 2011 across various months, second part was on the revenue and quantity that belong to top 10 countries, third part was top 10 revenue contributed by customers and lastly, were top demand by countries. The visualizations are below for grasp and better understanding
+Due to the fact that we really don't have much analysis to make, we proceeded to visualisation. The first visualization was on the revenue genearted in the year 2011 across various months, second part was on the revenue and quantity that belong to top 10 countries, third part was top 10 revenue contributed by customers and lastly, were top demand by countries. The visualizations are below for grasp and better understanding:
+
+1. 1st Visual
+![Tata viz 1](https://github.com/JuliansPortfolio/Tata-Virtual-Internship-with-Forage/assets/118804668/46985b4e-08bf-4c4b-85fd-37053c835913)
+
+2. 2nd Visual
+![Tata viz 2](https://github.com/JuliansPortfolio/Tata-Virtual-Internship-with-Forage/assets/118804668/963c3f7a-f472-489a-b40a-8c37f162b42f)
+
+3. 3rd Visual
+![Tata viz 3](https://github.com/JuliansPortfolio/Tata-Virtual-Internship-with-Forage/assets/118804668/40fca811-ca7e-47ff-9b9e-a49b4d744a68)
+
+4. 4th Visual
+![Tata viz 4](https://github.com/JuliansPortfolio/Tata-Virtual-Internship-with-Forage/assets/118804668/59ac4315-42f0-4784-9bf0-d392ae805a29)
+
+### Findings/Insights
+    The month that yielded the highest revenue was October, 2011 with the figure $216,000. While the least revenue was generated on December, 2011at $46,000. 
+    The rate of quantity produced determines the rate of outcome that is revenue. From our observation netherland, EIRE, Germany, France and Australia tops the chart with exclusive amounts. Spain, Switzerland, Belgium, Sweden and Japan came below. 
+    Customer with the ID 14646 patronized massively when compared to other customers. Though some few customers with the ID: 14911, 12415 & 14156 also fall into loyal customers as a result of their unwaivering patronage.
+    Most demand were carried out in North American region. This shows that majority of the c ustomers are Americans though North American precisely.
+
+### Recommendation
+1. There's a great need to improve sales in other low performing months. Also the company need to utilize the surge in revenue generation in October by add sale incentives like bonus, discount and so on.
+2. Since most patronage are coming from 5 countries such as Netherland, EIRE, Germany, France and Australia the company need to ensure that customer satisfaction are being met by improving quality and quantity with unique brand.
+3. Loyal customer are hard to come by due to human unquenching need. From our analysis we discovered 4 loyal customers which is not a good prospect for the growth of the company. Therefore, incentives should be incorporated in various format and in different state or region in order to boost sales.
+4. Most demand were carried out in North American region. This shows that majority of the customers are Americans though North Americans precisely. On the part, regions like Europe, South America and Australia had little impact on demand. For efficient resource allocation and revenue generation more emphasis should be place on advertisement, sales promotion, direct selling and public relation at Europe, South America and Australia.
+
+
 
 
 
