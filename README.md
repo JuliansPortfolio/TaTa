@@ -1,4 +1,4 @@
-# Tata-Virtual-Internship-with-Forage
+# Tata Virtual Internship with Forage
 ## Empowering Business with Effective Insights
 
 ## Objective
