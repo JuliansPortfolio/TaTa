@@ -24,12 +24,13 @@ The dataset consist of 44,999 rows with 8 columns. These columns description are
 Due to the fact that we really don't have much analysis to make, we proceeded to visualisation. The first visualization was on the revenue genearted in the year 2011 across various months, second part was on the revenue and quantity that belong to top 10 countries, third part was top 10 revenue contributed by customers and lastly, were top demand by countries. The visualizations are below for grasp and better understanding:
 
 1. 1st Visual
-
+[First](https://imgur.com/vAq4517)
 2. 2nd Visual
-
+[Second](https://imgur.com/DNRKsld)
 3. 3rd Visual
-
+[Third](https://imgur.com/KTuuNuw)
 4. 4th Visual
+[Fourth](https://imgur.com/l0CtyQ9)
 
 ### Findings/Insights
     The month that yielded the highest revenue was October, 2011 with the figure $216,000. While the least revenue was generated on December, 2011at $46,000. 
